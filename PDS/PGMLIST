@@ -1,0 +1,50 @@
+Abbreviated listing of programs documented in this file
+----------- ------- -- -------- ---------- -- ---- ----
+
+AMASPZAP        IBM             Inspect and/or modify a load module or data reco
+AMBLIST         IBM             Produce a formatted listing of an object or load
+CMPRSEQ         CBT File #226   Compare two sequential datasets or members of tw
+COPYMODS        CBT File #229   Copy all files of an input tape onto 1 to 16 out
+DSSDUMP         CBT File #860   Create a backup sequential dataset, ADRDSSU form
+DSSREST         CBT File #860   Restore one or more datasets from a backup set c
+FIXDSCB         CBT File #566   Modify and repair of dataset control blocks (DSC
+ICKDSF          IBM             Prepare an offline DASD volume so that it can be
+IEBCOMPR        IBM             Compare two sequential datasets or two partition
+IEBCOPY         IBM             Copy one or more partitioned datasets or to merg
+IEBGENER        IBM             Copy a sequential dataset, or a member of a part
+IEBISAM         IBM             Copy an indexed sequential (ISAM) dataset from o
+IEBPTPCH        IBM             Print or punch:  all/selected members/selected r
+IEBUPDTE        IBM             Incorporate source language modifications into s
+IEHDASDR        IBM             Prepare DASD volumes for use, dump/restore the e
+IEHINITT        IBM             Prepare tape volumes for use by writing IBM volu
+IEHLIST         IBM             Print entries in a DASD Volume Table Of Contents
+IEHMAP          CBT V129 File83 Print a formatted listing of a VTOC or a dataset
+IEHMOVE         IBM             Move or copy one or several datasets from one DA
+IEHPROGM        IBM             Modify system control data and to maintain datas
+LISTPDS         CBT File #316   Prints formatted listings of a PDS directory, th
+MINIUNZ         CBT File #135   Uncompress the contents of datasets created by c
+MINIZIP         CBT File #135   Compress the contents of:  1) one or more sequen
+OFFLOAD         CBT File #093   Sequentialize a partitioned dataset.
+PDSLOAD         CBT File #093   Recreate a partitioned dataset from a sequential
+PDSMATCH        CBT File #357   Compare two partitioned datasets.
+PDSPRINT        CBT File #316   Print or punch members from a partitioned datase
+PDSPROGM        CBT File #316   Perform maintenance on partitioned datasets.
+PDSSCAN         CBT File #684   Scan all members of one or more partitioned data
+PDSUPDTE        CBT OVF FIle065 Scan all members of one or more partitioned data
+PDSUR           CBT File #949   Copy partitioned datasets from DASD to tape (unl
+RECV370         CBT File #571   Process XMIT files produced by either the TSO/E
+RESETDS         NaSPA 1986      Reset to empty status partitioned or sequential
+REVLMOD         CBT File #134   Reload load modules that have been offloaded wit
+SORT            IBM             Sort data records from one or more sequential da
+SUPERLST        CBT File #134   Print DASD VTOC listing, with optional Partition
+SYSREPRO        CBT File #316   Copy data records from a sequential dataset or m
+TAPEMAP         CBT File #299   Read a tape volume and report everything it cont
+TAPESCAN        CBT File #102   Read a tape volume and report an overview of the
+UNUPDTE         CBT File #093   Sequentialize a partitioned dataset.
+UPDTE           CBT File #093   Recreate a partitioned dataset from a sequential
+VTOCLIST        CBT OFL File343 Print formatted VTOC listing.
+XMIT370         CBT File #571   Read partitioned datasets to produce XMIT files
+ZAPDSCB         CBT File #163   Update DSCBs for specified datasets with values
+ZTDUMPTP        CBT File #316   Print data records from datasets on tape.
+ZZRELINK        CBT File #860   Re-link-edit one or more existing load modules.
+
